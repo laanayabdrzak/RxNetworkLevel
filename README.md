@@ -7,17 +7,12 @@ Include the following dependency in your build.gradle file.
 **Gradle:**
 ```Gradle
     dependencies {
-        compile 'io.laanayabdrzak.android:rxconnectivitystate:1.0'
+        compile 'io.laanayabdrzak.android:rxnetworkstate:1.0'
     }
 ```
 **Maven:**
 ```
-<dependency>
-  <groupId>io.laanayabdrzak.android</groupId>
-  <artifactId>rxconnectivitystate</artifactId>
-  <version>1.0</version>
-  <type>pom</type>
-</dependency>
+
 ```
 ## V1.0
 
