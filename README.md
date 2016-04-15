@@ -7,12 +7,23 @@ Include the following dependency in your build.gradle file.
 **Gradle:**
 ```Gradle
     dependencies {
-        compile 'io.laanayabdrzak.android:rxnetworkstate:1.0'
+        compile 'io.laanayabdrzak.android:rxnetworklevel:1.0'
     }
 ```
 **Maven:**
 ```
-
+<dependency>
+  <groupId>io.laanayabdrzak.android</groupId>
+  <artifactId>rxnetworklevel</artifactId>
+  <version>1.0</version>
+  <type>pom</type>
+</dependency>
+```
+**ivy:**
+```
+<dependency org='io.laanayabdrzak.android' name='rxnetworklevel' rev='1.0'>
+  <artifact name='$AID' ext='pom'></artifact>
+</dependency>
 ```
 ## V1.0
 
