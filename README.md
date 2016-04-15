@@ -19,12 +19,7 @@ Include the following dependency in your build.gradle file.
   <type>pom</type>
 </dependency>
 ```
-**ivy:**
-```
-<dependency org='io.laanayabdrzak.android' name='rxnetworklevel' rev='1.0'>
-  <artifact name='$AID' ext='pom'></artifact>
-</dependency>
-```
+
 ## V1.0
 
 stable version.
